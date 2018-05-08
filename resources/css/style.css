@@ -1,7 +1,12 @@
-#discover h1{
+/*Style for opening content "Discover"*/
+
+#discover p {
   font-family: verdana;
   font-weight:normal;
   font-size: 50px;
   color: white;
   align-content: center;
+}
+#discover {
+  background-color: black;
 }
