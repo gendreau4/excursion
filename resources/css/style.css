@@ -1,12 +1,38 @@
+/*style for page*/
+body{
+  background-color: black;
+  text-align: center;
+}
 /*Style for opening content "Discover"*/
-
 #discover p {
   font-family: verdana;
   font-weight:normal;
   font-size: 50px;
   color: white;
-  align-content: center;
 }
-#discover {
-  background-color: black;
+a {
+  color:aquamarine;
+  font-size:16px
+}
+#travel h1 {
+  font-family: verdana;
+  font-weight:300;
+  font-size: 42px;
+  color: white;
+}
+#travel p {
+  font-family:verdana;
+  font-size: 21px;
+  color:gray;
+}
+#coming p {
+  font-family:verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color:white;
+}
+#copyright p {
+  font-family: verdana;
+text-align: right;
+  color:gray;
 }
