@@ -4,7 +4,7 @@ body{
   text-align: center;
 }
 /*Style for opening content "Discover"*/
-#discover p {
+#discover h1 {
   font-family: verdana;
   font-weight:normal;
   font-size: 50px;
@@ -25,7 +25,7 @@ a {
   font-size: 21px;
   color:gray;
 }
-#coming p {
+#coming h1 {
   font-family:verdana;
   font-weight: 300;
   font-size: 42px;
@@ -33,6 +33,6 @@ a {
 }
 #copyright p {
   font-family: verdana;
-text-align: right;
+  text-align: right;
   color:gray;
 }
